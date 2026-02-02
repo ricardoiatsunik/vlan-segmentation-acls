@@ -1,16 +1,14 @@
-# Emulação de Rede – VLANs e ACLs no EVE-NG
+# Segurança de Redes com EVE-NG
 
 <img width="940" height="467" alt="Topologia" src="https://github.com/user-attachments/assets/68fe9723-bc08-42af-8f21-d21f5ca72667" />
 
 ### Descrição
 
-Este repositório é uma documentação de estudo. O objetivo é emular uma rede virtual com VLANs, switches e roteador utilizando o EVE-NG, incluindo a criação de ACLs para controle de tráfego entre as redes.
-
-O ambiente foi criado para aplicar restrições de comunicação entre as VLANs conforme os cenários definidos:
-
-- **VLAN 10**: não pode se comunicar com a VLAN 20.  
-- **VLAN 20**: não pode acessar a VLAN 10 e não possui acesso à internet.  
-- **VLAN 30**: possui acesso completo às demais VLANs e à internet.
+Implementei uma topologia de rede segmentada em 3 VLANs e configurei o roteamento
+inter-VLAN em um roteador Cisco com listas de acesso (ACLs) para aplicar políticas de
+segurança, bloqueando tráfego não autorizado entre os segmentos de rede e controlando
+o acesso à internet. O projeto teve como objetivo praticar os princípios de segmentação
+de rede e controle de acesso de privilégio mínimo.
 
 ---
 
