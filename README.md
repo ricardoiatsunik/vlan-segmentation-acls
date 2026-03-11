@@ -1,3 +1,7 @@
+<p align="center">
+<a href="README.en.md">🌐English version</a>
+</p>
+
 # Segurança de Redes com EVE-NG
 
 <img width="940" height="467" alt="Topologia" src="https://github.com/user-attachments/assets/68fe9723-bc08-42af-8f21-d21f5ca72667" />
