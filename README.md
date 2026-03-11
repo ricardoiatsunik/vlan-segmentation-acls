@@ -1,4 +1,4 @@
-# Segurança de Rede com EVE-NG
+# Segurança de Redes com EVE-NG
 
 <img width="940" height="467" alt="Topologia" src="https://github.com/user-attachments/assets/68fe9723-bc08-42af-8f21-d21f5ca72667" />
 
