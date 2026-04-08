@@ -254,3 +254,6 @@ Com o uso de ACLs, foi possível bloquear o tráfego não autorizado entre as VL
 
 O projeto teve como objetivo principal praticar conceitos fundamentais de redes e segurança, como **segmentação, controle de acesso e organização de tráfego** em ambientes simulados utilizando o EVE-NG.
 
+
+## Referências
+- CISCO Network Defense
