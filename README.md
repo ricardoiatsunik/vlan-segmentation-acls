@@ -18,7 +18,7 @@ de rede e controle de acesso de privilégio mínimo**.
 
 ### Topologia
 
-Implementação de três VLANs com:
+Três VLANs com:
 
 - 3 Hosts (um em cada VLAN)  
 - 2 Switches  
