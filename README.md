@@ -20,7 +20,7 @@ de rede e controle de acesso de privilégio mínimo**.
 
 Implementação de três VLANs com:
 
-- 3 PCs (um em cada VLAN)  
+- 3 Hosts (um em cada VLAN)  
 - 2 Switches  
 - 1 Roteador  
 - 1 Ponte de Rede (Cloud)  
